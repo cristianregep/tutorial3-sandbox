@@ -1,5 +1,8 @@
 
-/* Simulation of console-I/O program ComputeAverage,
+
+/* Maeve Mulgrew
+
+   Simulation of console-I/O program ComputeAverage,
    using ConsoleApplet as a basis.  See the file
    ConsoleApplet.java for more information.
    
